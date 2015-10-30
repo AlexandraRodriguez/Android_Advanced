@@ -1,0 +1,286 @@
+{
+  "total_hits": 11413,
+  "max_score": 12.008454,
+  "hits": [
+    {
+      "_index": "f762ef22-e660-434f-9071-a10ea6691c27",
+      "_type": "item",
+      "_id": "513fceb475b8dbbc21000f94",
+      "_score": 12.008454,
+      "fields": {
+        "item_id": "513fceb475b8dbbc21000f94",
+        "item_name": "Apple - 1 cup slices",
+        "brand_name": "USDA",
+        "nf_calories": 56.68,
+        "nf_serving_size_qty": 1,
+        "nf_serving_size_unit": "serving"
+      }
+    },
+    {
+      "_index": "f762ef22-e660-434f-9071-a10ea6691c27",
+      "_type": "item",
+      "_id": "513fceb475b8dbbc21000f92",
+      "_score": 11.954229,
+      "fields": {
+        "item_id": "513fceb475b8dbbc21000f92",
+        "item_name": "Apple - 1 medium (3\" dia)",
+        "brand_name": "USDA",
+        "nf_calories": 94.64,
+        "nf_serving_size_qty": 1,
+        "nf_serving_size_unit": "serving"
+      }
+    },
+    {
+      "_index": "f762ef22-e660-434f-9071-a10ea6691c27",
+      "_type": "item",
+      "_id": "513fceb475b8dbbc21000f93",
+      "_score": 11.826246,
+      "fields": {
+        "item_id": "513fceb475b8dbbc21000f93",
+        "item_name": "Apple - 1 large (3-1/4\" dia)",
+        "brand_name": "USDA",
+        "nf_calories": 115.96,
+        "nf_serving_size_qty": 1,
+        "nf_serving_size_unit": "serving"
+      }
+    },
+    {
+      "_index": "f762ef22-e660-434f-9071-a10ea6691c27",
+      "_type": "item",
+      "_id": "513fceb475b8dbbc21000f95",
+      "_score": 11.710035,
+      "fields": {
+        "item_id": "513fceb475b8dbbc21000f95",
+        "item_name": "Apple - 1 cup, quartered or chopped",
+        "brand_name": "USDA",
+        "nf_calories": 65,
+        "nf_serving_size_qty": 1,
+        "nf_serving_size_unit": "serving"
+      }
+    },
+    {
+      "_index": "f762ef22-e660-434f-9071-a10ea6691c27",
+      "_type": "item",
+      "_id": "513fceb475b8dbbc21000f90",
+      "_score": 11.637515,
+      "fields": {
+        "item_id": "513fceb475b8dbbc21000f90",
+        "item_name": "Apple - 1 extra small (2-1/2\" dia)",
+        "brand_name": "USDA",
+        "nf_calories": 52.52,
+        "nf_serving_size_qty": 1,
+        "nf_serving_size_unit": "serving"
+      }
+    },
+    {
+      "_index": "f762ef22-e660-434f-9071-a10ea6691c27",
+      "_type": "item",
+      "_id": "513fceb475b8dbbc21000f8f",
+      "_score": 11.504583,
+      "fields": {
+        "item_id": "513fceb475b8dbbc21000f8f",
+        "item_name": "Apple - 1 NLEA serving",
+        "brand_name": "USDA",
+        "nf_calories": 125.84,
+        "nf_serving_size_qty": 1,
+        "nf_serving_size_unit": "serving"
+      }
+    },
+    {
+      "_index": "f762ef22-e660-434f-9071-a10ea6691c27",
+      "_type": "item",
+      "_id": "513fceb475b8dbbc21000f91",
+      "_score": 11.353269,
+      "fields": {
+        "item_id": "513fceb475b8dbbc21000f91",
+        "item_name": "Apple - 1 small (2-3/4\" dia)",
+        "brand_name": "USDA",
+        "nf_calories": 77.48,
+        "nf_serving_size_qty": 1,
+        "nf_serving_size_unit": "serving"
+      }
+    },
+    {
+      "_index": "f762ef22-e660-434f-9071-a10ea6691c27",
+      "_type": "item",
+      "_id": "52cdcc7e051cb9eb32003849",
+      "_score": 3.8220975,
+      "fields": {
+        "item_id": "52cdcc7e051cb9eb32003849",
+        "item_name": "Apple",
+        "brand_name": "Flavors NYC",
+        "nf_calories": 20,
+        "nf_serving_size_qty": 1,
+        "nf_serving_size_unit": "serving"
+      }
+    },
+    {
+      "_index": "f762ef22-e660-434f-9071-a10ea6691c27",
+      "_type": "item",
+      "_id": "5527cf4a15e511601d31f515",
+      "_score": 3.8220975,
+      "fields": {
+        "item_id": "5527cf4a15e511601d31f515",
+        "item_name": "Apple",
+        "brand_name": "Fruit Pockets",
+        "nf_calories": 145,
+        "nf_serving_size_qty": 1,
+        "nf_serving_size_unit": "serving"
+      }
+    },
+    {
+      "_index": "f762ef22-e660-434f-9071-a10ea6691c27",
+      "_type": "item",
+      "_id": "5266a0c49f05a39eb3005a16",
+      "_score": 3.7863681,
+      "fields": {
+        "item_id": "5266a0c49f05a39eb3005a16",
+        "item_name": "Apple",
+        "brand_name": "Pret A Manger US",
+        "nf_calories": 80,
+        "nf_serving_size_qty": 1,
+        "nf_serving_size_unit": "serving"
+      }
+    },
+    {
+      "_index": "f762ef22-e660-434f-9071-a10ea6691c27",
+      "_type": "item",
+      "_id": "55d9177ea33e846457f16489",
+      "_score": 3.7385066,
+      "fields": {
+        "item_id": "55d9177ea33e846457f16489",
+        "item_name": "Apple",
+        "brand_name": "Angry Orchard",
+        "nf_calories": 210,
+        "nf_serving_size_qty": 1,
+        "nf_serving_size_unit": "serving"
+      }
+    },
+    {
+      "_index": "f762ef22-e660-434f-9071-a10ea6691c27",
+      "_type": "item",
+      "_id": "550f6bb2a924403009412b89",
+      "_score": 3.7385066,
+      "fields": {
+        "item_id": "550f6bb2a924403009412b89",
+        "item_name": "Apple",
+        "brand_name": "One Bar",
+        "nf_calories": 70,
+        "nf_serving_size_qty": 1,
+        "nf_serving_size_unit": "serving"
+      }
+    },
+    {
+      "_index": "f762ef22-e660-434f-9071-a10ea6691c27",
+      "_type": "item",
+      "_id": "5521fd56bf5f4bcc61ab7e28",
+      "_score": 3.7385066,
+      "fields": {
+        "item_id": "5521fd56bf5f4bcc61ab7e28",
+        "item_name": "Apple",
+        "brand_name": "Fruit Pockets",
+        "nf_calories": 145,
+        "nf_serving_size_qty": 1,
+        "nf_serving_size_unit": "serving"
+      }
+    },
+    {
+      "_index": "f762ef22-e660-434f-9071-a10ea6691c27",
+      "_type": "item",
+      "_id": "552ff10584ef2600245b6e69",
+      "_score": 3.5745292,
+      "fields": {
+        "item_id": "552ff10584ef2600245b6e69",
+        "item_name": "Apple",
+        "brand_name": "Collatio",
+        "nf_calories": 70,
+        "nf_serving_size_qty": 1,
+        "nf_serving_size_unit": "serving"
+      }
+    },
+    {
+      "_index": "f762ef22-e660-434f-9071-a10ea6691c27",
+      "_type": "item",
+      "_id": "529e7dd5f9655f6d35001f99",
+      "_score": 3.505145,
+      "fields": {
+        "item_id": "529e7dd5f9655f6d35001f99",
+        "item_name": "Apple",
+        "brand_name": "Fresh and Co",
+        "nf_calories": 15,
+        "nf_serving_size_qty": 1,
+        "nf_serving_size_unit": "serving"
+      }
+    },
+    {
+      "_index": "f762ef22-e660-434f-9071-a10ea6691c27",
+      "_type": "item",
+      "_id": "5266a2359f05a39eb300fc3c",
+      "_score": 3.505145,
+      "fields": {
+        "item_id": "5266a2359f05a39eb300fc3c",
+        "item_name": "Apple",
+        "brand_name": "Tully's Coffee",
+        "nf_calories": 350,
+        "nf_serving_size_qty": 1,
+        "nf_serving_size_unit": "serving"
+      }
+    },
+    {
+      "_index": "f762ef22-e660-434f-9071-a10ea6691c27",
+      "_type": "item",
+      "_id": "51c36c6497c3e69de4b081db",
+      "_score": 3.505145,
+      "fields": {
+        "item_id": "51c36c6497c3e69de4b081db",
+        "item_name": "Apple",
+        "brand_name": "Mrs. Smith's",
+        "nf_calories": 350,
+        "nf_serving_size_qty": 1,
+        "nf_serving_size_unit": "serving"
+      }
+    },
+    {
+      "_index": "f762ef22-e660-434f-9071-a10ea6691c27",
+      "_type": "item",
+      "_id": "5266a3279f05a39eb3015d0e",
+      "_score": 3.5032804,
+      "fields": {
+        "item_id": "5266a3279f05a39eb3015d0e",
+        "item_name": "Apple",
+        "brand_name": "Salata",
+        "nf_calories": 15,
+        "nf_serving_size_qty": 1,
+        "nf_serving_size_unit": "serving"
+      }
+    },
+    {
+      "_index": "f762ef22-e660-434f-9071-a10ea6691c27",
+      "_type": "item",
+      "_id": "513fc9cc673c4fbc260062ed",
+      "_score": 3.4349675,
+      "fields": {
+        "item_id": "513fc9cc673c4fbc260062ed",
+        "item_name": "Apple",
+        "brand_name": "Coco's Bakery",
+        "nf_calories": 730,
+        "nf_serving_size_qty": 1,
+        "nf_serving_size_unit": "serving"
+      }
+    },
+    {
+      "_index": "f762ef22-e660-434f-9071-a10ea6691c27",
+      "_type": "item",
+      "_id": "529e7dfaea63d49335003104",
+      "_score": 3.4349675,
+      "fields": {
+        "item_id": "529e7dfaea63d49335003104",
+        "item_name": "Apple",
+        "brand_name": "Cafe Metro",
+        "nf_calories": 20,
+        "nf_serving_size_qty": 1,
+        "nf_serving_size_unit": "serving"
+      }
+    }
+  ]
+}
